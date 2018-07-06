@@ -1,7 +1,7 @@
 import development from './dev';
 import { EnvironmentSchema } from './schema';
 
-export const port = process.env.PORT || 8013;
+export const port = 8013;
 export const host = `http://localhost:${port}`;
 
 /**
