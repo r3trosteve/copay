@@ -1,5 +1,5 @@
 {
-  "name": "copay",
+  "name": "cointroller",
   "description": "A Secure Bitcoin Wallet",
   "author": "BitPay",
   "version": "4.5.0",
@@ -12,10 +12,10 @@
     "bitcore"
   ],
   "main": "www/index.html",
-  "title": "Copay",
+  "title": "Cointroller",
   "chromium-args": "--disable-password-generation --disable-devtools",
   "window": {
-    "title": "Copay – Copay Bitcoin Wallet",
+    "title": "Cointroller – Bitcoin Wallet",
     "icon": "www/assets/img/app/icon.png",
     "toolbar": false,
     "show": false,
